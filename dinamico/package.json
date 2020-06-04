@@ -1,0 +1,27 @@
+{
+  "name": "dinamico",
+  "version": "1.0.0",
+  "description": "examen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricardo Quintana Pinedo 4°E",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoqp/prueba.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ricardoqp/prueba/issues"
+  },
+  "homepage": "https://github.com/ricardoqp/prueba#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-hbs": "^2.3.3",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.9.17"
+  }
+}
+
